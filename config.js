@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 global.wm = '                「 Luccy BOT あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառLuccy - Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
 
