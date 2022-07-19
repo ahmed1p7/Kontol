@@ -74,7 +74,7 @@ $ apt update && upgrade -y
 $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
-$ git clone https://github.com/FahriAdison/Sad-Multi-Device
+$ git clone https://github.com/ahmed1p7/Kontol.git
 $ cd bot-md
 $ npm i
 $ node .
@@ -84,7 +84,7 @@ $ node .
 
 
 Ada Yg Error?Langsung Chat
-https://wa.me/17608914335
+https://wa.me/+393271166550?text=hi
 
 error pas install module?
 coba module dibawah ini
