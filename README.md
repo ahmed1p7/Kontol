@@ -18,7 +18,7 @@ https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz
 
 ## UNTUK PENGGUNA REPLIT
 
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/FahriAdison/Sad-Multi-Device)
+[![Run on Repl.it](https://repl.it/github/ahmed1p7/kontol)](https://repl.it/github/FahriAdison/Sad-Multi-Device)
 ```cmd
 Buka Console
 ------------
@@ -84,7 +84,7 @@ $ node .
 
 
 Ada Yg Error?Langsung Chat
-https://wa.me/+393271166550?text=hi
+https://wa.me/+393271166550?text=mayo
 
 error pas install module?
 coba module dibawah ini
